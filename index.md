@@ -35,5 +35,7 @@ Please see the [Jupyter Notebook](http://htmlpreview.github.io/?https://github.c
 
 ## Slides
 #### [Download PDF](https://github.com/Yiting2018/EPA-Air-Quality-Analysis/raw/master/Big%20Data%20Presentation.pdf)
+
 <br>
+
 ### [Go Back to Homepage](https://yiting2018.github.io)
