@@ -89,3 +89,11 @@ Variables in the `air_quality_annual_summary` BigQuery table include the followi
 * **city_name**: The name of the city where the monitoring site is located. This represents the legal incorporated boundaries of cities and not urban areas.
 * **cbsa_name**: The name of the core bases statistical area (metropolitan area) where the monitoring site is located.
 * **date_of_last_change**: The date the last time any numeric values in this record were updated in the AQS data system.
+
+## Code
+Please see the [Jupyter Notebook](http://htmlpreview.github.io/?https://github.com/Yiting2018/EPA-Air-Quality-Analysis/blob/master/EPA_Air_Quality_Analysis.html) for details.
+
+## Slides
+#### [Download PDF](https://github.com/Yiting2018/EPA-Air-Quality-Analysis/raw/master/Big%20Data%20Presentation.pdf)
+
+### [Go Back to Homepage](https://yiting2018.github.io)
